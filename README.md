@@ -1,6 +1,6 @@
 ### 🎓 Experience
 - Chonnam National University, Computer Engineering
-- Gwangju AI Center Junior Developer
+- Gwangju AI Center Corp. Junior Developer
 - ETRI (Electronics and Telecommunications Research Institute) Student Intern
 - SSAFY (Samsung Software Academy For Youth) 6th   
    
