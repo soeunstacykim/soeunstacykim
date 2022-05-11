@@ -17,6 +17,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimstacy1996)](https://solved.ac/kimstacy1996/)
 
 ### 📚 Description
-- [공공데이터를 활용한 부동산 정보 제공 서비스](https://github.com/soeunstacykim/happy-house)
-- ["좋은 회의"를 할 수 있도록 돕는 화상채팅 서비스](https://github.com/soeunstacykim/beyond-meeting)
-- [제주특별자치도 여행 계획 및 기록 작성 플랫폼](https://github.com/soeunstacykim/jeju-planning)
+- [공공데이터를 활용한 주거 지역 정보 제공 서비스](https://github.com/soeunstacykim/happy-house)
+- ["좋은 회의"를 할 수 있도록 돕는 실시간 화상회의 서비스](https://github.com/soeunstacykim/beyond-meeting)
+- [제주특별자치도 여행 계획 및 여행 기록 작성 플랫폼](https://github.com/soeunstacykim/jeju-planning)
