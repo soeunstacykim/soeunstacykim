@@ -3,8 +3,7 @@
 - Gwangju AI Center Corp. Junior Developer
 - ETRI (Electronics and Telecommunications Research Institute) Student Intern
 - SSAFY (Samsung Software Academy For Youth) 6th
-- Certificate : 정보처리기사 (2020.11), SQLD (2021.06)
-- English : TOEIC (2020.08 835), OPIc (2022.03 Intermediate High)
+- Export Import Bank of Korea
    
 ### 🎨 Tech Stack
 <div>
