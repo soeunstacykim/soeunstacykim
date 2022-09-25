@@ -1,9 +1,9 @@
 ### 🎓 Experience
 - Chonnam National University, Computer Engineering
-- Gwangju AI Center Corp. Junior Developer
-- ETRI (Electronics and Telecommunications Research Institute) Student Intern
-- SSAFY (Samsung Software Academy For Youth) 6th
-- Export Import Bank of Korea, Digital Finance Group
+- Saltlux Innovation Corp. Junior Developer
+- Electronics and Telecommunications Research Institute Student Intern
+- Samsung Software Academy For Youth 6th
+- Export Import Bank of Korea
    
 ### 🎨 Tech Stack
 <div>
