@@ -1,9 +1,9 @@
 ### 🎓 Experience
 - Chonnam National University, Computer Engineering
-- Saltlux Innovation Corp. Junior Developer
-- Electronics and Telecommunications Research Institute Student Intern
-- Samsung Software Academy For Youth 6th
-- Export Import Bank of Korea
+- **2020.10.01 ~ 2020.12.31** [Saltlux Innovation Corp.](http://www.gjac.co.kr/cmm/main/mainPage.do) Junior Developer
+- **2021.01.04 ~ 2021.02.28** [ETRI](https://www.etri.re.kr/kor/main/main.etri)(Electronics and Telecommunications Research Institute) Student Intern
+- **2021.07.07 ~ 2022.07.03** [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)(Samsung Software Academy For Youth) 6th
+- **2022.08.01 ~ ?** [Export Import Bank of Korea](https://www.koreaexim.go.kr/index)
    
 ### 🎨 Tech Stack
 <div>
