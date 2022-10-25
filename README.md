@@ -21,6 +21,6 @@
 - [위치 기반 메시징 서비스](https://github.com/soeunstacykim/porong-message)
 
 ### ✈ Me
-- https://www.instagram.com/kim._.soeun
 - https://blog.naver.com/kimstacy
 - https://lemon-scone.tistory.com
+- https://www.instagram.com/kim._.soeun
