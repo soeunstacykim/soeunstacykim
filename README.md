@@ -15,10 +15,18 @@
 </div>   
 
 ### 📚 Description
-- [공공데이터를 활용한 주거 지역 정보 제공 서비스](https://github.com/soeunstacykim/happy-house)
-- ["좋은 회의"를 할 수 있도록 돕는 실시간 화상회의 서비스](https://github.com/soeunstacykim/beyond-meeting)
-- [제주 여행 플래닝 서비스](https://github.com/soeunstacykim/jeju-planning)
-- [위치 기반 메시징 서비스](https://github.com/soeunstacykim/porong-message)
+- **학부 프로젝트**
+  - [컴퓨터공학프로젝트]()
+  - [소프트웨어공학프로젝트]()
+  - [컴퓨터공학종합프로젝트(캡스톤디자인)]()
+- **인턴십 프로젝트**
+  - [솔트룩스 이노베이션]()
+  - [한국전자통신연구원]()
+- **싸피 프로젝트**
+  - [공공데이터를 활용한 주거 지역 정보 제공 서비스](https://github.com/soeunstacykim/happy-house)
+  - ["좋은 회의"를 할 수 있도록 돕는 실시간 화상회의 서비스](https://github.com/soeunstacykim/beyond-meeting)
+  - [제주 여행 플래닝 서비스](https://github.com/soeunstacykim/jeju-planning)
+  - [위치 기반 메시징 서비스](https://github.com/soeunstacykim/porong-message)
 
 ### ✈ Me
 - https://blog.naver.com/kimstacy
