@@ -3,7 +3,7 @@
 - **2020.10.01 ~ 2020.12.31** [Saltlux Innovation Corp.](http://www.gjac.co.kr/cmm/main/mainPage.do) Junior Developer
 - **2021.01.04 ~ 2021.02.28** [ETRI](https://www.etri.re.kr/kor/main/main.etri)(Electronics and Telecommunications Research Institute) Student Intern
 - **2021.07.07 ~ 2022.07.03** [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)(Samsung Software Academy For Youth) 6th
-- **2022.08.01 ~ ?** [Export Import Bank of Korea](https://www.koreaexim.go.kr/index)
+- **2022.08.02 ~ 2056.12.31** [Export Import Bank of Korea](https://www.koreaexim.go.kr/index)
 
 ### 🔍 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimstacy1996)](https://solved.ac/kimstacy1996)
